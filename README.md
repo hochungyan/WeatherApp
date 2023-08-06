@@ -1,6 +1,8 @@
 WeatherApp
 ======================
-
+```
+React JS Tutorial – Build a Weather App With Cities Autocomplete [Learning From freeCodeCamp.org]
+```
 The project is deployed [Click here](https://main.d1fdd78nfqibtx.amplifyapp.com/)
 ### Deployment
 ```
